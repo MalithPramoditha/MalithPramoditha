@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#4FC3F7;">Malith Aberuwan.</span></h1>
+r<h1 align="center">👋 Hi there, I'm <span style="color:#4FC3F7;">Malith Aberuwan.</span></h1>
 <h3 align="center">🚀 Computer Engineer | Software Engineer | Mobile App Developer | Educator</h3>
 
 <p align="center">
@@ -39,7 +39,7 @@ Constantly learning and staying updated with the latest <b>tech trends</b>, I be
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=malithpramoditha&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malithpramoditha&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
 </p>
 
 <!-- <p align="center">
