@@ -11,7 +11,7 @@ Constantly learning and staying updated with the latest <b>tech trends</b>, I be
 💡 <i>“Let’s create the future together - one line of code at a time.”</i>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:malithpramoditha107@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -21,15 +21,15 @@ Constantly learning and staying updated with the latest <b>tech trends</b>, I be
   <a href="https://github.com/MalithPramoditha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,react,typescript,nodejs,express,html,css,javascript,cpp,c,cs,mysql,mongodb,firebase,aws,docker,linux,git,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=dart,python,cpp,java,c,cs,flutter,html,css,javascript,react,typescript,nodejs,express,firebase,mysql,mongodb,aws,docker,git,linux,windows,github,figma&perline=8" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=malithpramoditha&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true&row=2&column=5" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=malithpramoditha&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
   </a>
 </p>
 
