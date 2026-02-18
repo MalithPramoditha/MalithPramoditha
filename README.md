@@ -27,7 +27,7 @@ Constantly learning and staying updated with the latest <b>tech trends</b>, I be
   <img src="https://skillicons.dev/icons?i=dart,python,cpp,java,c,cs,flutter,html,css,javascript,react,typescript,nodejs,express,firebase,mysql,mongodb,aws,docker,git,linux,windows,github,figma&perline=8" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=malithpramoditha&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
   </a>
@@ -36,7 +36,7 @@ Constantly learning and staying updated with the latest <b>tech trends</b>, I be
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malithpramoditha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malithpramoditha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malithpramoditha&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
